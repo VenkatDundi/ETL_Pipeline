@@ -1,0 +1,20 @@
+Youtube | https://www.youtube.com/watch?v=RULkvM7AdzY | Helped me in understanding the traversal through the PDF document
+OU Data Lab | https://oudatalab.com/cs5293sp23/projects/project0 | Helped me in using the sample code templates and libraries
+Real Python | https://realpython.com/command-line-interfaces-python-argparse/ | Helped me in understanding Command Line Arguments with argparse
+GeeksforGeeks | https://www.geeksforgeeks.org/python-urllib-module/ | Helped with understanding Urllib library functions
+GeeksforGeeks | https://www.geeksforgeeks.org/how-to-convert-bytes-to-string-in-python/ | Bytes to String decoding 
+Stackoverflow | https://stackoverflow.com/questions/22216076/unicodedecodeerror-utf8-codec-cant-decode-byte-0xa5-in-position-0-invalid-s | Unicode Decode Error details
+Youtube | https://www.youtube.com/watch?v=5zMmc1wmZ_0 | Helped in understanding Unicode Encoding & Decoding Examples
+W3Schools | https://www.w3schools.com/python/python_regex.asp | Helped in Regex Usage
+W3Schools | https://www.w3schools.com/python/trypython.asp?filename=demo_regex_seq4 | Helped in Practicing Regex over Date/Time etc.
+Code Project | https://www.codeproject.com/Questions/1257067/Find-a-string-using-regex-with-forward-slashes-in | Helped in using regex with Slashes
+Stack Overflow | https://stackoverflow.com/questions/26985228/python-regular-expression-match-multiple-words-anywhere | Helped in combining multiple word match in regex
+sqlitetutorial | https://www.sqlitetutorial.net/sqlite-python/creating-database/ | Helped in implementating db and table creation
+sqlitetutorial | https://www.sqlitetutorial.net/sqlite-python/insert/ | Helped in using insertion of data to db
+sqlitetutorial | https://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/| Helped in processing select query and retrieving rows
+Medium | https://medium.com/geekculture/how-to-import-another-file-in-python-4f833ea462b1 | Helped in importing a file to another
+GeeksforGeeks | https://www.geeksforgeeks.org/python-sqlite-connecting-to-database/ | Helped in understanding sqlite db connectivity
+
+
+
+
